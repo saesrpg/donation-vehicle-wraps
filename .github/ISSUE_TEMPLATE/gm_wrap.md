@@ -1,8 +1,8 @@
 ---
 name: GM Wrap
 about: Use this template for posting your GM shader wrap request
-title: 'Wrap for organizations (gang / group)'
-labels: 'In Progress'
+title: "[ORG] "
+labels: In Progress, [ORG]
 assignees: ''
 
 ---

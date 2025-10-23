@@ -1,20 +1,17 @@
 ---
-name: Custom Wrap
-about: Use this template for posting your custom shader wrap request
-title: "[CUSTOM] "
-labels: "[CUSTOM], In Progress"
+name: Generic Wrap
+about: Use this template for requesting a new generic wrap to be added to the server.
+title: "[GENERIC] "
+labels: "[GENERIC], In Progress"
 assignees: ''
 
 ---
 
+<!-- This is not for requesting a generic wrap to be added to your vehicle in-game -->
+<!-- This is for requesting a new generic wrap to be added to the server -->
+
 **Vehicle ID**
 <!-- You can get the ID from https://wiki.multitheftauto.com/wiki/Vehicle_IDs -->
-
-**Wrap access**
-<!-- Leave blank if anyone can use the wrap, otherwise state the usernames -->
-
-**Thread for reward change**
-<!-- Link your donation or reward change thread requesting this wrap. If left blank and a test is requested, the test may take a while to process, as you have no donation to request rewards for. -->
 
 **Translations**
 <!-- If the wrap contains language not readable in English, please add translations here, with reference to which part of the vehicle it's painted on. You must show the FOREIGN and ENGLISH version in plain text  -->
